@@ -2,9 +2,7 @@
 
 <p>
 Welcome to my page! <br/>
-I'm <b>Mohammad Nasser</b>, Developer from 
-<img src="https://cdn-icons-png.flaticon.com/512/197/197583.png" width="13"/> 
-<b>Lebanon</b> 🇱🇧
+I'm <b>Mohammad Nasser</b>, Developer from <b>Lebanon 🇱🇧</b>
 </p>
 
 <hr/>
