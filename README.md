@@ -20,6 +20,10 @@ I'm <b>Mohammad Nasser</b>, a <b>Computer Engineering (CENG) student</b> from <b
 <p>
   <img alt="C" src="https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white" />
 </p>
+<li>Data Structures & Algorithms (DSA)</li>
+  <li>Object-Oriented Programming (OOP)</li>
+  <li>Problem Solving</li>
+  <li>Database Fundamentals</li>
 
 <hr/>
 
