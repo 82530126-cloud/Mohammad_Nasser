@@ -2,7 +2,7 @@
 
 <p>
 Welcome to my page! <br/>
-I'm <b>Mohammad Nasser</b>, Developer from <b>Lebanon 🇱🇧</b>
+I'm <b>Mohammad Nasser</b>, a <b>Computer Engineering (CENG) student</b> from <b>Lebanon 🇱🇧</b>.
 </p>
 
 <hr/>
